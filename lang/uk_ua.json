@@ -9,7 +9,7 @@
   "nekoui.config.gui.reset.all": "Скинути",
   "nekoui.config.back": "Повернутись",
   "nekoui.defaults.button.label": "NekoUI",
-  "nekoui.defaults.button.url": "https://github.com/SITCommunity/NekoUI-Download",
+  "nekoui.defaults.button.url": "https://github.strivo.xyz/nekoui-download",
   "nekoui.error.connect": "Не вдалось під'єднатись до Discord...",
   "nekoui.error.discord.assets.fallback": "Ім'я активу \"%1$s\" не існує, спроба використати альтернативу іконку \"%2$s\"...",
   "nekoui.error.discord.assets.default": "Не вдалось призначити альтернативну іконку \"%1$s\", використовую за замовчуванням/рандомизовану іконку \"%2$s\"...",
