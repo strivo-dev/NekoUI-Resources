@@ -1,0 +1,27 @@
+{
+  "nekoui.menu.play": "PLAY",
+  "nekoui.menu.multiplayer": "Multiplayer",
+  "nekoui.menu.options": "Options",
+  "nekoui.menu.mods": "Mods",
+  "nekoui.menu.close": "Close Game",
+  "nekoui.menu.realms": "Realms",
+  "nekoui.menu.clean_mode": "Clean Mode",
+
+  "nekoui.config.gui.reset.all": "Reset",
+  "nekoui.config.back": "Back",
+  "nekoui.config.prev": "Previous",
+  "nekoui.config.next": "Next",
+  "nekoui.config.title": "Background Selection",
+  "nekoui.config.background.apply": "Apply Background",
+  "nekoui.config.low.quality.mode": "Low Quality Mode: ",
+  "nekoui.config.low.quality.mode.enable": "ON",
+  "nekoui.config.low.quality.mode.disable": "OFF",
+
+  "nekoui.rpc.connect": "Discord RPC connected.",
+  "nekoui.rpc.loaded": "Loaded Discord RPC (Logged in as %2$s)",
+  "nekoui.rpc.error.update": "Cannot update presence, not connected to Discord.",
+  "nekoui.rpc.error.connection": "Failed to connect to Discord RPC.",
+  "nekoui.rpc.error.client": "No Discord client detected.",
+  "nekoui.rpc.error.ipc": "Discord RPC Failed to load, and has been shutdown: %1$s",
+  "nekoui.rpc.close": "Shut Down Discord RPC..."
+}
