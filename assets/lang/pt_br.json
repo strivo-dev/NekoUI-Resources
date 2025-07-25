@@ -6,6 +6,7 @@
   "nekoui.menu.close": "Fechar Jogo",
   "nekoui.menu.realms": "Realms",
   "nekoui.menu.clean_mode": "Modo Limpo",
+
   "nekoui.config.gui.reset.all": "Resetar",
   "nekoui.config.back": "Voltar",
   "nekoui.config.prev": "Anterior",
@@ -15,6 +16,7 @@
   "nekoui.config.low.quality.mode": "Modo de Baixa Qualidade: ",
   "nekoui.config.low.quality.mode.enable": "LIGADO",
   "nekoui.config.low.quality.mode.disable": "DESLIGADO",
+  
   "nekoui.rpc.connect": "Discord RPC conectado.",
   "nekoui.rpc.loaded": "Discord RPC carregado (Logado como %2$s)",
   "nekoui.rpc.error.update": "Não é possível atualizar presença, não conectado ao Discord.",

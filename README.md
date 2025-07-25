@@ -59,12 +59,18 @@ Yes! If your contributions are accepted, your name will appear in the in-game mo
 ## Credits
 
 ### Translators
-| Language | Contributor |
-|----------|-------------|
-| English (US) | [@nokarin-dev](https://github.com/nokarin-dev) |
-| Indonesian (id_ID) | [@Hans](https://github.com/Neko059) |
-| Ukrainian (uk_UA) | [@howtoscriptinpython](https://github.com/howtoscriptinpython) |
-| Russian (ru_RU) | [@howtoscriptinpython](https://github.com/howtoscriptinpython) |
+| Language           | Contributor                                                    |
+|--------------------|----------------------------------------------------------------|
+| English (US)       | [@nokarin-dev](https://github.com/nokarin-dev)                 |
+| Indonesian (id_ID) | [@Hans](https://github.com/Neko059)                            |
+| Ukrainian (uk_UA)  | [@howtoscriptinpython](https://github.com/howtoscriptinpython) |
+| Russian (ru_RU)    | [@howtoscriptinpython](https://github.com/howtoscriptinpython) |
+| Arabic             | [alfaruqii](https://github.com/alfaruqii)                      |
+| Brazilian          | [alfaruqii](https://github.com/alfaruqii)                      |
+| Mexican            | [alfaruqii](https://github.com/alfaruqii)                      |
+| Italian            | [alfaruqii](https://github.com/alfaruqii)                      |
+| German             | [alfaruqii](https://github.com/alfaruqii)                      |
+| Georgian           | [alfaruqii](https://github.com/alfaruqii)                      |
 
 ---
 

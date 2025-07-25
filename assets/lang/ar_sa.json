@@ -6,6 +6,7 @@
   "nekoui.menu.close": "إغلاق اللعبة",
   "nekoui.menu.realms": "العوالم",
   "nekoui.menu.clean_mode": "الوضع النظيف",
+
   "nekoui.config.gui.reset.all": "إعادة تعيين",
   "nekoui.config.back": "رجوع",
   "nekoui.config.prev": "السابق",
@@ -15,6 +16,7 @@
   "nekoui.config.low.quality.mode": "وضع الجودة المنخفضة: ",
   "nekoui.config.low.quality.mode.enable": "تشغيل",
   "nekoui.config.low.quality.mode.disable": "إيقاف",
+  
   "nekoui.rpc.connect": "تم الاتصال بـ Discord RPC.",
   "nekoui.rpc.loaded": "تم تحميل Discord RPC (تم تسجيل الدخول كـ %2$s)",
   "nekoui.rpc.error.update": "لا يمكن تحديث الحالة، غير متصل بـ Discord.",

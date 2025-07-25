@@ -6,6 +6,7 @@
   "nekoui.menu.close": "თამაშის დახურვა",
   "nekoui.menu.realms": "რეალმები",
   "nekoui.menu.clean_mode": "სუფთა რეჟიმი",
+  
   "nekoui.config.gui.reset.all": "გადატვირთვა",
   "nekoui.config.back": "უკან",
   "nekoui.config.prev": "წინა",
@@ -15,6 +16,7 @@
   "nekoui.config.low.quality.mode": "დაბალი ხარისხის რეჟიმი: ",
   "nekoui.config.low.quality.mode.enable": "ჩართული",
   "nekoui.config.low.quality.mode.disable": "გამორთული",
+
   "nekoui.rpc.connect": "Discord RPC დაკავშირებულია.",
   "nekoui.rpc.loaded": "Discord RPC ჩატვირთულია (შესული როგორც %2$s)",
   "nekoui.rpc.error.update": "არ შეიძლება presence-ის განახლება, Discord-თან არ არის კავშირი.",
